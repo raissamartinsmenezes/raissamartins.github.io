@@ -30,3 +30,16 @@ nav a:hover {
     color: #7E459B;
 }
 
+.habilidades i {
+    font-size: 1.8rem;
+}
+
+.tamanho-card {
+    width: 18rem;
+}
+
+.imagem-cards {
+    object-fit: cover;
+    object-position: top;
+    height: 40vh;
+}
